@@ -367,7 +367,7 @@ body {
 }
 
 .project-content.expanded {
-    max-height: 2000px;
+    max-height:3000px;
     opacity: 0.95;
     padding: 20px;
     margin-top: 10px;
@@ -399,6 +399,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
 
 .contentContainer {
